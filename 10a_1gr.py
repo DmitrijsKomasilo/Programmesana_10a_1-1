@@ -15,6 +15,7 @@ print(5+6)
 7 Isaèenko Aleksandrs
 
 8 Komaðilo Dmitrijs
+print(88*3)
 
 9 Lukjanèikova Darja
 
